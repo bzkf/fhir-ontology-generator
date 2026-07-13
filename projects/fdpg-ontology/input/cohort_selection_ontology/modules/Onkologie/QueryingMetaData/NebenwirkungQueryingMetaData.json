@@ -11,5 +11,11 @@
     "display": "MII Onkologie Nebenwirkung",
     "version": "1.0.0"
   },
-  "term_code_defining_id": "AdverseEvent.seriousness"
+  "term_code_defining_id": "AdverseEvent.seriousness",
+  "attribute_defining_id_type_map": {
+    "AdverseEvent.event.coding.code": {
+      "type": "",
+      "optional": true
+    }
+  }
 }
