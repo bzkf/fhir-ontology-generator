@@ -22,7 +22,7 @@
       "type": "",
       "optional": true
     },
-    "Observation.interpretation": {
+    "Observation.interpretation.coding": {
       "type": "",
       "optional": true
     }
